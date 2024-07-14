@@ -8,7 +8,7 @@ profile_picture:
 ## About Me
 
 <p>
-  Welcome! I'm YeongSik Ham and studying Computer Science in Seoul, South Korea.
+  Welcome! I'm YeongSik Ham and studying Software Development in Seoul, South Korea.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ profile_picture:
 ## Work experience
 
 ### Freelance Software Engineer, Lavoro (Nov. 2023 - Feb. 2024)
-* Developed a smart store website for a cafe
+* Developed a smart store website for a cafe.
 * Contributed to improving product accessibility and optimizing the website for search engines.
 
 ## Team Project experience

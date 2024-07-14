@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/cafe.png
       alt: cafe
-    description: Lavoro is a company that provides customized solutions tailored to the needs of its customers. I led the development of the smart store for the café operated by this company. I aimed to provide a user-friendly interface. Additionally, I achieved results such as improving customer satisfaction and driving additional sales through the product recommendation feature. Furthermore, I collaborated with the marketing team to enhance the café's brand awareness.
+    description: Lavoro is a company that provides customized solutions tailored to the needs of its customers. I led the development of the smart store for the cafe operated by this company. I aimed to provide a user-friendly interface. Additionally, I achieved results such as improving customer satisfaction and driving additional sales through the product recommendation feature. Furthermore, I collaborated with the marketing team to enhance the cafe's brand awareness.
   - title: SDP(Sustainable Development Program)
     image:
       src: /assets/img/work/sdp.png
