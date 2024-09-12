@@ -42,3 +42,6 @@ profile_picture:
   * B.S. in Mechanical Engineering
   * GPA: 3.28/4.3
   * Duration: 2017 - 2024
+
+* SSAFY(Samsung Software Academy For Youth), South Korea
+  * Duration: 2024
